@@ -1,5 +1,6 @@
 # GoIT-Manual-Test-Project
 [ENG] Portfolio project showcasing manual QA testing skills: API, UI, and functional testing.
+
 [TR] API, UI ve fonksiyonel test alanlarındaki manuel QA yetkinliklerini sergileyen portföy projesi.
 
 ## 🇬🇧 English Version
