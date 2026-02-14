@@ -33,7 +33,7 @@ The project focuses on testing a responsive fitness tracking web application tha
 - **Browser DevTools:** Chrome DevTools  
 - **Test Management:** TestRail / Jira / Excel  
 
-
+***
 
 ## 🇹🇷 Türkçe Versiyon
 
